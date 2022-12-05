@@ -7,19 +7,21 @@ Mathilda took care of the data cleaning and visualizations, while Lila did the d
 
 ### 1. Data  visualization
 
-A compléter par Mathilda
+Concerning the visualization, we were able to assert that this or that variable is determining or not: we were able to study the features of the population (weight, height, age, gender, family history, according to the status).
+Then we could study the consumption habits of the individuals (eating between meals, smoking, drinking alcohol, transport used). 
+All this could be visualized by numerous plots (pie plots, histograms,...).
 
 ### 2. Machine Learning
 
-Pour cette partie, nous avons testé plusieurs modèles de classification : Logistic Regression, Gradient Boosting Classifier, K-Nearest Neighbours, Support Vector Machine, Random Forest et XGBoost. Après avoir réalisé des calculs de précision, nous avons conclu que le meilleur modèle était GXBoost, que nous avons alors implémenté dans notre API. A traduire sur deepl
+For this part, we tested several classification models: Logistic Regression, Gradient Boosting Classifier, K-Nearest Neighbours, Support Vector Machine, Random Forest and XGBoost. After performing accuracy calculations, we concluded that the best model was GXBoost, which we then implemented in our API. 
 
 ### 3 - L'API
 
-Nous avons utilisé Dash, implémentant le concept suivant : suite à un questionnaire, l'utilisateur peut estimer son indice de poids ou son risque à souffrir d'obésité dans le futur.
+We used Dash, implementing the following concept: following a questionnaire, the user can estimate his weight index or his risk to suffer from obesity in the future.
 
 ### 4 - Conclusion
 
-Nous avons pu au cours de ce projet utiliser diverses librairies que nous avions découvert au cours des TD du semestre.
+During this project, we were able to use various libraries that we had discovered during the Practical Works of the semester.
 
 
 
